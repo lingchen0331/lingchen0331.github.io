@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Chen Ling"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student in Machine Learning/Graph Data Mining"
   location         : "Atlanta, GA"
   employer         : "Emory University"
   pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://lingchen0331.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
