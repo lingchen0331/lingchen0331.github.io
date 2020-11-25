@@ -15,4 +15,9 @@ My research interests lie in two streams:
 - **Social Network Analysis**: Time Series Analysis, Social Event Prediction  
 
 
+## Preprints
+**Ling C.**, Guangmo T.: [SocialGrid: A TCN-enhanced Method for Online Discussion Forecasting
+](https://arxiv.org/abs/2003.07189), *Preprint*.  
+
 ## Publications
+**Ling C.**, Guangmo T., Mozi C.: [NesTPP: Modeling Information Diffusion in Online Discussion Forum](https://dl.acm.org/doi/abs/10.1145/3372923.3404796), *ACM HT 2020*.   
