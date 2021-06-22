@@ -27,4 +27,4 @@ Teaching Assistant, Advanced Web Design, *University of Vermont, 2017 Spring*
 Teaching Assistant, Discrete Mathematics, *University of Vermont, 2016 Fall*  
 
 ## Service
-I have served PC member and sub PC member for top conferences: KDD, NIPS, ICML, ICLR, ICDM as well as top journals: TNNLS, TBD
+I have participated in reviewing top conferences: KDD, NIPS, ICML, ICLR, ICDM as well as top journals: TNNLS, TBD as sub PC member and PC member.
