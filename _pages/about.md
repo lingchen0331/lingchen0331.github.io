@@ -15,6 +15,9 @@ My research interests lie in two streams:
 - **Social Network Analysis**: Time Series Analysis, Social Event Prediction  
 
 ## Publications
+**Chen Ling**, Di Cui: [On Forecasting Dynamics In Online Discussion Forums
+](https://ieeexplore.ieee.org/document/9428382), *IEEE ICME 2021*.   
+
 Liming Zhang, Liang Zhao, Shan Qin,Dieter  Pfoser, and **Chen Ling**: [TG-GAN: Continuous-time Temporal Graph Generation with Deep Generative Models](https://dl.acm.org/doi/abs/10.1145/3442381.3449818), *ACM WWW 2021*.  
 
 **Chen Ling**, Guangmo Tong, and Mozi Chen: [NesTPP: Modeling Information Diffusion in Online Discussion Forum](https://dl.acm.org/doi/abs/10.1145/3372923.3404796), *ACM HT 2020*.   

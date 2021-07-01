@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chen Ling / Personal Website"
 title_separator          : "-"
-name                     : &name "Chen Ling"
+name                     : &name "Chen Ling(凌辰)"
 description              : &description "Graph Data Mining"
 url                      : https://lingchen0331.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,8 +86,8 @@ author:
   location         : "Atlanta, GA"
   employer         : "Emory University"
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "chen dot ling at emory dot edu"
+  googlescholar    : "https://scholar.google.com/citations?user=275NKcEAAAAJ&hl=en"
+  email            : "chen.ling@emory.edu"
   researchgate     : "https://www.researchgate.net/profile/Chen_Ling66"
   uri              : "https://lingchen0331.github.io/"
   bitbucket        :
