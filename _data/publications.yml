@@ -63,6 +63,7 @@ main:
     code: https://github.com/lingchen0331/HGEN
     bibtex: https://ieeexplore.ieee.org/abstract/document/9679028
     image: ./assets/img/icdm21.png
+    notes: Best Paper Candidate
 
   - title: "TG-GAN: Continuous-time temporal graph deep generative models with time-validity constraints"
     authors: Liming Zhang, Liang Zhao, Shan Qin, Dieter Pfoser, Chen Ling
