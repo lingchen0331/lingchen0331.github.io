@@ -1,0 +1,29 @@
+main:
+
+  - title: "Deep Graph Representation Learning and Optimization for Influence Maximization"
+    authors: Chen Ling, Junji Jiang, Junxiang Wang, My Thai, Lukas Xue, James Song, Meikang Qiu, Liang Zhao
+    conference_short: ICML
+    conference: Fortieth International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
+    pdf: https://proceedings.mlr.press/v202/ling23b/ling23b.pdf
+    code: https://github.com/triplej0079/DeepIM
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:mCIJpiZiV-EJ:scholar.google.com/&output=citation&scisdr=ClE6ZsY_EM7p9YS-jqQ:AFWwaeYAAAAAZQi4lqS_uNwOgKe5av-D7KVE3nE&scisig=AFWwaeYAAAAAZQi4lmHFKa_mILPE4Rb1ojw445I&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/icml.png
+
+  - title: "Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks"
+    authors: Guangji Bai*, Chen Ling*, Liang Zhao (* denotes equal contribution)
+    conference_short: ICLR
+    conference: The 2023 International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2205.10664.pdf
+    code: https://github.com/BaiTheBest/DRAIN
+    bibtex: https://github.com/BaiTheBest/DRAIN.
+    image: ./assets/img/iclr.png
+    notes: Oral Presentation
+
+  - title: "Saliency-Augmented Memory Completion for Continual Learning"
+    authors: Guangji Bai, Chen Ling, Yuyang Gao, Liang Zhao
+    conference_short: SDM
+    conference: The 2023 SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2023.
+    pdf: https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28
+    code: https://github.com/baithebest/samc
+    bibtex: https://github.com/baithebest/samc
+    image: ./assets/img/sdm23.png
