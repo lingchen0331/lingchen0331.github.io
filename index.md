@@ -8,7 +8,7 @@ Welcome! I'm Chen Ling, a fourth-year Ph.D. student at [Emory University](https:
 
 My research encompasses Graph Mining, Natural Language Processing, and Applied Machine Learning. I hold a strong academic background and have contributed to multiple research projects, constantly pushing the boundaries of what's possible in the data science field. My works have been published at top AI conferences, including ICML, KDD, ICLR, ICDM, ECML-PKDD, TheWebConf (aka. WWW), and SDM.
 
-I am looking for *research scientist* or *machine learning engineer* internship positions in <span style="color:lightpink;">**Summer 2024**</span>.
+I am looking for *research scientist* or *machine learning engineer* internship positions in <span style="color:lightpink;font-weight:bold">Summer 2024</span>.
 
 ## Research Interests
 
