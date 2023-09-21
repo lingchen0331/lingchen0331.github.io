@@ -8,7 +8,7 @@ Welcome! I'm Chen Ling, a fourth-year Ph.D. student at [Emory University](https:
 
 My research encompasses Graph Mining, Natural Language Processing, and Applied Machine Learning. I hold a strong academic background and have contributed to multiple research projects, constantly pushing the boundaries of what's possible in the data science field. My works have been published at top AI conferences, including ICML, KDD, ICLR, ICDM, ECML-PKDD, TheWebConf (aka. WWW), and SDM.
 
-I am looking for *research scientist* or *machine learning engineer* internship positions in <span style="color:lightpink;font-weight:bold">Summer 2024</span>.
+I have been actively looking for *research scientist* or *machine learning engineer* internship positions in <span style="color:lightpink;font-weight:bold">Summer 2024</span>. Feel free to reach out if there are any opportunities!
 
 ## Research Interests
 
@@ -17,7 +17,7 @@ I am looking for *research scientist* or *machine learning engineer* internship 
 - **Natural Language Processing:** Applications of Large Language Model, Neural Machine Reasoning
 
 ## News
-- **[Sep. 2023]** Our [LLM4Bio Workshop](https://llms4science-community.github.io/aaai2024.html) has been accepted by [AAAI 2024](https://aaai.org/aaai-conference/), feel free to check out!
+- **[Sep. 2023]** Our [LLM4Bio Workshop](https://llms4science-community.github.io/aaai2024.html) has been accepted by [AAAI 2024](https://aaai.org/aaai-conference/). Call for papers will be released soon, please stay tuned!
 - **[Sep. 2023]** Taken PC/Reviewer Invitations for WSDM 2024, ICLR 2024, and SDM 2024.
 - **[Jul. 2023]** The first survey on Domain Specialization of LLMs is online, entitled [Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey](https://arxiv.org/abs/2305.18703), feel free to check out!
 - **[May. 2023]** Our paper about Influence Maximization on Social Network is accepted to ICML 2023.
