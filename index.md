@@ -6,7 +6,7 @@ layout: homepage
 
 Welcome! I'm Chen Ling, a fourth-year Ph.D. student at [Emory University](https://www.cs.emory.edu/home/), where I am fortunately working with Professor [Liang Zhao](http://cs.emory.edu/~lzhao41/index.htm). Prior to that, I obtained my M.S. Degree in Computer Science at the University of Delaware and B.S. Degree in Computer Science at the University of Vermont. I have several research experience in industries, including [NEC Labs America](https://www.nec-labs.com/research/data-science-system-security/), [IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/), and [iFlyTek](https://global.iflytek.com/).
 
-My research encompasses Graph Mining, Natural Language Processing, and Applied Machine Learning. I hold a strong academic background and have contributed to multiple research projects, constantly pushing the boundaries of what's possible in the data science field. My works have been published at top AI conferences, including ICML, KDD, ICLR, ICDM, ECML-PKDD, TheWebConf (aka. WWW), and SDM.
+My research encompasses Graph Mining, Natural Language Processing, and Applied Machine Learning. I hold a strong academic background and have contributed to multiple research projects, constantly pushing the boundaries of what's possible in the data science field. My works have been published at top AI conferences, including ICML, KDD, ICLR, TheWebConf (aka. WWW), ICDM, ECML-PKDD, and SDM.
 
 I have been actively looking for *research scientist* or *machine learning engineer* internship positions in <span style="color:lightpink;font-weight:bold">Summer 2024</span>. Feel free to reach out if there are any opportunities!
 
