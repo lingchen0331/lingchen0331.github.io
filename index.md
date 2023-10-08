@@ -17,6 +17,7 @@ I have been actively looking for *research scientist* or *machine learning engin
 - **Natural Language Processing:** Applications of Large Language Model, Neural Machine Reasoning
 
 ## News
+- **[Oct. 2023]** Our paper about commonsense reasoning is accepted by EMNLP 2023!
 - **[Sep. 2023]** Our [LLM4Bio Workshop](https://llms4science-community.github.io/aaai2024.html) has been accepted by [AAAI 2024](https://aaai.org/aaai-conference/). Call for papers will be released soon, please stay tuned!
 - **[Sep. 2023]** Taken PC/Reviewer Invitations for WSDM 2024, ICLR 2024, and SDM 2024.
 - **[Jul. 2023]** The first survey on Domain Specialization of LLMs is online, entitled [Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey](https://arxiv.org/abs/2305.18703), feel free to check out!
