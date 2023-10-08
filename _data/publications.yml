@@ -1,5 +1,14 @@
 main:
 
+  - title: "Open-ended Commonsense Reasoning with Unrestricted Answer Candidates"
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Xuchao Zhang, Xujiang Zhao, Yanchi Liu, Wei Cheng, Takao Osaki, Katsushi Matsuda, Haifeng Chen, Liang Zhao
+    conference_short: EMNLP'23 (Findings)
+    conference: The 2023 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
+    pdf: https://proceedings.mlr.press/v202/ling23b/ling23b.pdf
+    code: https://github.com/triplej0079/DeepIM
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:mCIJpiZiV-EJ:scholar.google.com/&output=citation&scisdr=ClE6ZsY_EM7p9YS-jqQ:AFWwaeYAAAAAZQi4lqS_uNwOgKe5av-D7KVE3nE&scisig=AFWwaeYAAAAAZQi4lmHFKa_mILPE4Rb1ojw445I&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/emnlp23.png
+
   - title: "Deep Graph Representation Learning and Optimization for Influence Maximization"
     authors: <span style="text-decoration:underline">Chen Ling</span>, Junji Jiang, Junxiang Wang, My Thai, Lukas Xue, James Song, Meikang Qiu, Liang Zhao
     conference_short: ICML'23
