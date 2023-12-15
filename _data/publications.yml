@@ -2,7 +2,7 @@ main:
 
   - title: "Open-ended Commonsense Reasoning with Unrestricted Answer Candidates"
     authors: <span style="text-decoration:underline">Chen Ling</span>, Xuchao Zhang, Xujiang Zhao, Yanchi Liu, Wei Cheng, Takao Osaki, Katsushi Matsuda, Haifeng Chen, Liang Zhao
-    conference_short: EMNLP'23 (Findings)
+    conference_short: EMNLP'23
     conference: The 2023 Conference on Empirical Methods in Natural Language Processing <strong>(Findings of EMNLP)</strong>, 2023.
     pdf: https://arxiv.org/abs/2310.11672
     code: https://github.com/lingchen0331/KEEP
