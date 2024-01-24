@@ -17,9 +17,8 @@ I have been actively looking for *research scientist* or *machine learning engin
 - **Natural Language Processing:** Applications of Large Language Model, Neural Machine Reasoning
 
 ## News
-- **[Jan. 2024]** Our paper about Influence Maximization on Multiplex Network is accepted by AISTSTS 2024.
+- **[Jan. 2024]** Our paper about Influence Maximization on Multiplex Networks is accepted by AISTATS 2024.
 - **[Dec. 2023]** Our paper about user recommendation is accepted by SDM 2024.
-- **[Dec. 2023]** I'll join [Adobe Research](https://research.adobe.com/) as a Research Intern in summer 2024, see you in San Jose!
 - **[Oct. 2023]** Our paper about commonsense reasoning is accepted by EMNLP 2023!
 - **[Sep. 2023]** Our [LLM4Bio Workshop](https://llms4science-community.github.io/aaai2024.html) has been accepted by [AAAI 2024](https://aaai.org/aaai-conference/). [Call for Papers](https://llms4science-community.github.io/aaai2024.html#call4paper) is here!
 - **[Sep. 2023]** Taken PC/Reviewer Invitations for WSDM 2024, ICLR 2024, and SDM 2024.
