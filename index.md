@@ -17,7 +17,7 @@ I have been actively looking for *research scientist* or *machine learning engin
 - **Natural Language Processing:** Applications of Large Language Model, Neural Machine Reasoning
 
 ## News
-- **[Feb. 2024]** I will join Amazon AWS as an Applied Scientist Intern at NYC in summer 2024!
+- **[Feb. 2024]** I will join AWS Security Analytics and AI Research team as an Applied Scientist Intern at NYC in summer 2024!
 - **[Jan. 2024]** Our paper about Influence Maximization on Multiplex Networks is accepted by AISTATS 2024.
 - **[Dec. 2023]** Our paper about user recommendation is accepted by SDM 2024.
 - **[Oct. 2023]** Our paper about commonsense reasoning is accepted by EMNLP 2023!
