@@ -6,7 +6,7 @@ layout: homepage
 
 Welcome! I'm Chen Ling, a fourth-year Ph.D. student at [Emory University](https://www.cs.emory.edu/home/), where I am fortunately working with Professor [Liang Zhao](http://cs.emory.edu/~lzhao41/index.htm). Prior to that, I obtained my M.S. Degree in Computer Science at the University of Delaware and B.S. Degree in Computer Science at the University of Vermont. I have several research experience in industries, including [NEC Labs America](https://www.nec-labs.com/research/data-science-system-security/), [IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/), and [iFlyTek](https://global.iflytek.com/).
 
-My research encompasses Graph Mining, Natural Language Processing, and Applied Machine Learning. During the past few years, I am privileged to collaborate with amazing industry researchers from NEC Labs America, Microsoft Research, and IBM Research. My works have been published at top AI conferences, including ICML, KDD, ICLR, EMNLP, TheWebConf (aka. WWW), ICDM, ECML-PKDD, and SDM.
+My research encompasses Graph Mining, Natural Language Processing, and Applied Machine Learning. During the past few years, I am privileged to collaborate with amazing industry researchers from Amazon AWS, NEC Labs America, Microsoft Research, and IBM Research. My works have been published at top AI conferences, including ICML, KDD, ICLR, EMNLP, TheWebConf (aka. WWW), ICDM, ECML-PKDD, and SDM.
 
 I have been actively looking for *research scientist* or *machine learning engineer* internship positions in <span style="color:lightpink;font-weight:bold">Summer 2024</span>. Feel free to reach out if there are any opportunities!
 
@@ -17,6 +17,7 @@ I have been actively looking for *research scientist* or *machine learning engin
 - **Natural Language Processing:** Applications of Large Language Model, Neural Machine Reasoning
 
 ## News
+- **[Feb. 2024]** I will join Amazon AWS as an Applied Scientist Intern at NYC in summer 2024!
 - **[Jan. 2024]** Our paper about Influence Maximization on Multiplex Networks is accepted by AISTATS 2024.
 - **[Dec. 2023]** Our paper about user recommendation is accepted by SDM 2024.
 - **[Oct. 2023]** Our paper about commonsense reasoning is accepted by EMNLP 2023!
