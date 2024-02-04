@@ -16,6 +16,7 @@ main:
     pdf: https://proceedings.mlr.press/v202/ling23b/ling23b.pdf
     code: https://github.com/triplej0079/DeepIM
     poster: ./assets/files/deepim_poster.pdf
+    slides: ./assets/files/DeepIM_slides.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:mCIJpiZiV-EJ:scholar.google.com/&output=citation&scisdr=ClE6ZsY_EM7p9YS-jqQ:AFWwaeYAAAAAZQi4lqS_uNwOgKe5av-D7KVE3nE&scisig=AFWwaeYAAAAAZQi4lmHFKa_mILPE4Rb1ojw445I&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/icml.png
 
