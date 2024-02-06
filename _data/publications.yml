@@ -30,15 +30,6 @@ main:
     image: ./assets/img/iclr23.png
     notes: Oral Presentation
 
-  - title: "Saliency-Augmented Memory Completion for Continual Learning"
-    authors: Guangji Bai, <span style="text-decoration:underline">Chen Ling</span>, Yuyang Gao, Liang Zhao
-    conference_short: SDM'23
-    conference: The 2023 SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2023.
-    pdf: https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28
-    code: https://github.com/baithebest/samc
-    bibtex: https://github.com/baithebest/samc
-    image: ./assets/img/sdm23.png
-
   - title: "DeepGAR: Deep Graph Learning for Analogical Reasoning"
     authors: <span style="text-decoration:underline">Chen Ling</span>, Tanmoy Chowdhury, Junji Jiang, Junxiang Wang, Xuchao Zhang, Haifeng Chen, Liang Zhao
     conference_short: ICDM'22
@@ -85,15 +76,6 @@ main:
     code: https://github.com/tongjiyiming/TGGAN
     bibtex: https://github.com/tongjiyiming/TGGAN
     image: ./assets/img/www21.png
-
-  - title: "On Forecasting Dynamics in Online Discussion Forums"
-    authors: <span style="text-decoration:underline">Chen Ling</span>, Di Cui, Guangmo Tong, Jianming Zhu
-    conference_short: ICME'21
-    conference: The IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2021.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9428382
-    code: https://ieeexplore.ieee.org/abstract/document/9428382
-    bibtex: https://ieeexplore.ieee.org/abstract/document/9428382
-    image: ./assets/img/icme21.png
 
   - title: "Nestpp: Modeling Thread Dynamics in Online Discussion Forums"
     authors: <span style="text-decoration:underline">Chen Ling</span>, Guangmo Tong, Mozi Chen
