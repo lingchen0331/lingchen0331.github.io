@@ -1,5 +1,14 @@
 main:
 
+  - title: "Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models"
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Xujiang Zhao, Wei Cheng, Yanchi Liu, Yiyou Sun, Xuchao Zhang, Mika Oishi, Takao Osaki, Katsushi Matsuda, Jie Ji, Guangji Bai, Liang Zhao, Haifeng Chen
+    conference_short: NAACL'24
+    conference: 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2402.10189
+    code: https://github.com/lingchen0331/UQ_ICL
+    bibtex: https://openreview.net/forum?id=Oq1b1DnUOP&noteId=MlhHIRfstz
+    image: ./assets/img/naacl24.png
+
   - title: "Open-ended Commonsense Reasoning with Unrestricted Answer Candidates"
     authors: <span style="text-decoration:underline">Chen Ling</span>, Xuchao Zhang, Xujiang Zhao, Yanchi Liu, Wei Cheng, Takao Osaki, Katsushi Matsuda, Haifeng Chen, Liang Zhao
     conference_short: EMNLP'23
@@ -30,15 +39,6 @@ main:
     image: ./assets/img/iclr23.png
     notes: Oral Presentation
 
-  - title: "DeepGAR: Deep Graph Learning for Analogical Reasoning"
-    authors: <span style="text-decoration:underline">Chen Ling</span>, Tanmoy Chowdhury, Junji Jiang, Junxiang Wang, Xuchao Zhang, Haifeng Chen, Liang Zhao
-    conference_short: ICDM'22
-    conference: The IEEE International Conference on Data Mining <strong>(ICDM)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2211.10821.pdf
-    code: https://github.com/triplej0079/DeepGAR
-    bibtex: https://github.com/triplej0079/DeepGAR
-    image: ./assets/img/icdm22.png
-
   - title: "Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems"
     authors: <span style="text-decoration:underline">Chen Ling</span>, Junji Jiang, Junxiang Wang, Zhao Liang
     conference_short: KDD'22
@@ -49,15 +49,6 @@ main:
     bibtex: https://github.com/triplej0079/SLVAE
     image: ./assets/img/kdd22.png
 
-  - title: "STGEN: Deep Continuous-time Spatiotemporal Graph Generation"
-    authors: <span style="text-decoration:underline">Chen Ling</span>, Hengning Cao, Liang Zhao
-    conference_short: ECML-PKDD'22
-    conference: The 2022 European Conference on Machine Learning and Principles of Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2022.
-    pdf: https://link.springer.com/chapter/10.1007/978-3-031-26409-2_21
-    code: github.com/lingchen0331/STGEN
-    bibtex: github.com/lingchen0331/STGEN
-    image: ./assets/img/ecmlpkdd.png
-
   - title: "Deep Generation of Heterogeneous Networks"
     authors: <span style="text-decoration:underline">Chen Ling</span>, Carl Yang, Liang Zhao
     conference_short: ICDM'21
@@ -67,21 +58,3 @@ main:
     bibtex: https://ieeexplore.ieee.org/abstract/document/9679028
     image: ./assets/img/icdm21.png
     notes: Best Paper Candidate
-
-  - title: "TG-GAN: Continuous-time temporal graph deep generative models with time-validity constraints"
-    authors: Liming Zhang, Liang Zhao, Shan Qin, Dieter Pfoser, <span style="text-decoration:underline">Chen Ling</span>
-    conference_short: TheWebConf'21
-    conference: The Web Conference <strong>(theWebConf)</strong>, 2021.
-    pdf: https://par.nsf.gov/servlets/purl/10291637
-    code: https://github.com/tongjiyiming/TGGAN
-    bibtex: https://github.com/tongjiyiming/TGGAN
-    image: ./assets/img/www21.png
-
-  - title: "Nestpp: Modeling Thread Dynamics in Online Discussion Forums"
-    authors: <span style="text-decoration:underline">Chen Ling</span>, Guangmo Tong, Mozi Chen
-    conference_short: HyperText'20
-    conference: The 31st ACM conference on hypertext and social media <strong>(HT)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2003.06051.pdf
-    code: https://github.com/lingchen0331/NesTPP
-    bibtex: https://github.com/lingchen0331/NesTPP
-    image: ./assets/img/ht20.png
