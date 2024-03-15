@@ -6,6 +6,7 @@ main:
     conference: 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2024.
     pdf: https://arxiv.org/abs/2402.10189
     code: https://github.com/lingchen0331/UQ_ICL
+    slides: ./assets/files/uncertainty_decomposition.pdf
     bibtex: https://openreview.net/forum?id=Oq1b1DnUOP&noteId=MlhHIRfstz
     image: ./assets/img/naacl24.png
 
