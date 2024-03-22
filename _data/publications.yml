@@ -41,7 +41,7 @@ main:
     notes: Oral Presentation
 
   - title: "Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems"
-    authors: <span style="text-decoration:underline">Chen Ling</span>, Junji Jiang, Junxiang Wang, Zhao Liang
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Junji Jiang, Junxiang Wang, Liang Zhao
     conference_short: KDD'22
     conference: The 28th ACM SIGKDD conference on knowledge discovery and data mining <strong>(KDD)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2206.12327.pdf
