@@ -17,7 +17,7 @@ I have been actively looking for *research scientist* or *machine learning engin
 - **Natural Language Processing:** Applications of Large Language Model, Neural Machine Reasoning
 
 ## News
-- **[Apr. 2024]** Happy to be invited to present at BlackRock Atlanta innovation hub (ATL iHub).
+- **[Apr. 2024]** Happy to be invited to present novel techniques on specializing LLMs in domain-specific applications at BlackRock Atlanta innovation hub (ATL iHub).
 - **[Mar. 2024]** Our survey paper on [Domain Specialization of LLMs](https://arxiv.org/abs/2305.18703) is honorably mentioned by [The 2024 Economic Report of the President](https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/) from the White House. Thanks to all collaborators, stay tuned!
 - **[Mar. 2024]** One paper about LLM Uncertainty Decomposition is accepted by NAACL 2024.
 - **[Feb. 2024]** I will join AWS Security Analytics and AI Research team as an Applied Scientist Intern at NYC in summer 2024!
