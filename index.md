@@ -17,14 +17,13 @@ I have been actively looking for *research scientist* or *machine learning engin
 - **Natural Language Processing:** Applications of Large Language Model, Neural Machine Reasoning
 
 ## News
-- **[Mar. 2024]** Our survey paper on [Domain Specialization of LLMs](https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/) is honorably mentioned by [The 2024 Economic Report of the President](https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/) from the White House. Thanks to all collaborators, stay tuned!
+- **[Apr. 2024]** Happy to be invited to present at BlackRock Atlanta innovation hub (ATL iHub).
+- **[Mar. 2024]** Our survey paper on [Domain Specialization of LLMs](https://arxiv.org/abs/2305.18703) is honorably mentioned by [The 2024 Economic Report of the President](https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/) from the White House. Thanks to all collaborators, stay tuned!
 - **[Mar. 2024]** One paper about LLM Uncertainty Decomposition is accepted by NAACL 2024.
 - **[Feb. 2024]** I will join AWS Security Analytics and AI Research team as an Applied Scientist Intern at NYC in summer 2024!
 - **[Jan. 2024]** Our paper about Influence Maximization on Multiplex Networks is accepted by AISTATS 2024.
 - **[Oct. 2023]** Our paper about commonsense reasoning is accepted by EMNLP 2023!
 - **[Sep. 2023]** Our [LLM4Bio Workshop](https://llms4science-community.github.io/aaai2024.html) has been accepted by [AAAI 2024](https://aaai.org/aaai-conference/). [Call for Papers](https://llms4science-community.github.io/aaai2024.html#call4paper) is here!
-- **[Sep. 2023]** Taken PC/Reviewer Invitations for WSDM 2024, ICLR 2024, and SDM 2024.
-- **[Jul. 2023]** The first survey on Domain Specialization of LLMs is online, entitled [Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey](https://arxiv.org/abs/2305.18703), feel free to check out!
 
 {% include_relative _includes/publications.md %}
 
