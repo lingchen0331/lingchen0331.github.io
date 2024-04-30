@@ -31,7 +31,7 @@ main:
     image: ./assets/img/icml.png
 
   - title: "Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks"
-    authors: Guangji Bai*, <span style="text-decoration:underline">Chen Ling</span>*, Liang Zhao (* denotes equal contribution)
+    authors: <span style="text-decoration:underline">Chen Ling</span>*, Guangji Bai*, Liang Zhao (* denotes equal contribution)
     conference_short: ICLR'23
     conference: The 2023 International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2205.10664.pdf
