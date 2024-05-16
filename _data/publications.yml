@@ -1,6 +1,15 @@
 main:
 
-  - title: "Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models"
+  - title: "Source Localization for Cross Network Information Diffusion"
+    authors: <span style="text-decoration:underline">Chen Ling</span>, Tanmoy Chowdhury, Jie Ji, Sirui Li, Andreas Züfle, Liang Zhao
+    conference_short: KDD'24
+    conference: 30th SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2404.14668
+    code: https://github.com/tanmoysr/CNSL/
+    bibtex: https://openreview.net/forum?id=Oq1b1DnUOP&noteId=MlhHIRfstz
+    image: ./assets/img/kdd24.png
+
+   - title: "Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models"
     authors: <span style="text-decoration:underline">Chen Ling</span>, Xujiang Zhao, Wei Cheng, Yanchi Liu, Yiyou Sun, Xuchao Zhang, Mika Oishi, Takao Osaki, Katsushi Matsuda, Jie Ji, Guangji Bai, Liang Zhao, Haifeng Chen
     conference_short: NAACL'24
     conference: 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2024.
