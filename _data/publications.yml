@@ -1,5 +1,5 @@
 main:
-   - title: "Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models"
+  - title: "Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models"
     authors: <span style="text-decoration:underline">Chen Ling</span>, Xujiang Zhao, Wei Cheng, Yanchi Liu, Yiyou Sun, Xuchao Zhang, Mika Oishi, Takao Osaki, Katsushi Matsuda, Jie Ji, Guangji Bai, Liang Zhao, Haifeng Chen
     conference_short: NAACL'24
     conference: 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2024.
